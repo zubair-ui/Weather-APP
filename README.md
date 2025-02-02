@@ -56,7 +56,7 @@ This **Weather Application** fetches real-time weather data from the **OpenWeath
    - Open a terminal and navigate to the project folder.
    - Run the Python script:
      ```bash
-     python weather_app.py
+     python weather_app.ipynb
      ```
 
 2. **Enter a city name** in the input field and click **Get Weather**.
